@@ -2,9 +2,7 @@
 
 ## alfred-get-deeplink-to-object
 
-Generate a deeplink to a specific Workflow object
-
-Little helper to get a deeplink to a specific workflow object in Alfred 5.
+Little helper workflow to get a deeplink to a specific workflow object in Alfred 5.
 
 ### To use
 
