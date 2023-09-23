@@ -1,6 +1,6 @@
 ![](./icon.png)
 
-## alfred-get-deeplink-to-object
+## Alfred Deeplink
 
 Little helper workflow to get a deeplink to a specific workflow object in Alfred 5. A deeplink in this case represents a link that uses Alfred's `alfredpreferences://` URI scheme to open the Workflow Editor directly to a specific Workflow, with a specific Object highlighted. This might be useful, especially to developers, for keeping notes or internal documentation about specific Workflows you're working on.
 
