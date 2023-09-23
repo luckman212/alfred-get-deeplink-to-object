@@ -14,12 +14,5 @@ https://www.alfredforum.com/topic/18390-get-currently-edited-workflow-uri/
 
 ### Requirements
 
-- Python3
-- pyobjc
+- Python3 (Comes with Xcode, or you can install with Homebrew)
 - Alfred 5.1
-
-To install pyobjc, run this command from Terminal:
-
-```bash
-PIP_REQUIRE_VIRTUALENV= pip3 install pyobjc
-```
