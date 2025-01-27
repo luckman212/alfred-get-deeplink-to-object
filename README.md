@@ -21,4 +21,4 @@ https://www.alfredforum.com/topic/18390-get-currently-edited-workflow-uri/
 ### Requirements
 
 - Python3 (Comes with Xcode, or you can install with Homebrew)
-- Alfred 5.1
+- Alfred 5.1 or higher
